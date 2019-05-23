@@ -1,10 +1,8 @@
 # Cache_COntroller
 Objective:
-==========
 The main aim of the project is to determine the best architecture for the cache controller thus in order to improve its speed using Cholesky decomposition methods. The Cholesky operates on a 256x256 symmetric matrix.
 
 Specification:
-==============
 •	Burst Length (BL): - 1,2, 4,8
 •	Number of Ways(N): - 1,2,4,8,16
 •	Write strategy (WS): - Write Back, Write Through Allocate, Write Through Non-Allocate.
